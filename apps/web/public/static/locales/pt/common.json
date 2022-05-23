@@ -831,5 +831,6 @@
   "booking_details": "Detalhes da reserva",
   "or_lowercase": "ou",
   "go_to": "Vá a: ",
-  "zapier_invite_link": "Ligação de convite do Zapier"
+  "zapier_invite_link": "Ligação de convite do Zapier",
+  "meeting_url_provided_after_confirmed": "Será criado um URL da reunião assim que o evento for confirmado."
 }
